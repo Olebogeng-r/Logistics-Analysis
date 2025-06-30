@@ -21,8 +21,8 @@ Analyze shipment data to identify cost-saving opportunities and inefficiencies i
 - Conditional formatting for delayed shipments
 
 📎 Files:
-- `Transport_Cost.xlsx`
-- `Insights_Summary.pdf`
+- `Logistics_Analyst_Supplier_Evaluation.xlsx`
+- `Logistics_Analyst_Recommendations.pdf`
 
 ---
 
@@ -42,8 +42,8 @@ Score and compare supplier performance to support strategic sourcing decisions.
 - Dashboard-style layout
 
 📎 Files:
-- `Supplier_Scorecard.xlsx`
-- `Supplier_Recommendations.pdf`
+- `Logistics_Analyst_Supplier_Evaluation.xlsx`
+- `Logistics_Analyst_Recommendations.pdf`
 
 ---
 
